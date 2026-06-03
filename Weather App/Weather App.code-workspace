@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Java Script "
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Weather App"
+	}
+}
